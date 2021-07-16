@@ -1,0 +1,4 @@
+br/com/alura/leilao/HelloWorldSelenium.class
+br/com/alura/leilao/lance/LancesPage.class
+br/com/alura/leilao/login/LoginPage.class
+br/com/alura/leilao/login/LoginTest.class
